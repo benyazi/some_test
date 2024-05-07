@@ -1,0 +1,6 @@
+
+yphp:S100"YRename function "my_psr4_autoloader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(κί ÿÿÿÿÿ8ρΜ¨ττ1
+A	php:S2003"&Replace "require" with "require_once".(Òϋ
+8ςΜ¨ττ1
+g	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(Òϋ
+8ςΜ¨ττ1
